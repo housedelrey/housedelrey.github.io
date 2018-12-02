@@ -1,1 +1,1 @@
-# Photos coming soon
+Photos coming soon!

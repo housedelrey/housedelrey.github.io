@@ -1,8 +1,8 @@
 ---
-title: Property for Sale
-subtitle: Praia D'el Rey
+title: Dream Getaway
+subtitle: Praia D'el Rei, Portugal
 use-site-title: true
-bigimg: ["/img/17.jpg", "/img/20.jpg", "/img/21.jpg", "/img/02.jpg"]
+bigimg: ["/img/17.jpg", "/img/03.jpg", "/img/07.jpg", "/img/22.jpg", "/img/24.jpg"]
 ---
 
 For more information about this property please contact:  

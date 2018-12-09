@@ -25,6 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Home: "index"
   Photos: "photos"
+  Location: "location"
   Contact Information: "contact"
 
 

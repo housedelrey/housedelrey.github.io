@@ -1,6 +1,6 @@
 ---
 title: Dream Getaway
-subtitle: Praia D'el Rei, Portugal
+subtitle: Praia D'el Rey Golf & Beach Resort, Portugal
 use-site-title: true
 bigimg: ["/img/17.jpg", "/img/03.jpg", "/img/07.jpg", "/img/22.jpg", "/img/24.jpg"]
 ---

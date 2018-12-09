@@ -5,7 +5,7 @@ use-site-title: true
 bigimg: ["/img/17.jpg", "/img/03.jpg", "/img/07.jpg", "/img/22.jpg", "/img/24.jpg"]
 ---
 
-This property is located at:
+This property is located at:  
 *Rua D. Mafalda de Saboia no 23, Vale Janelas Amoreira*  
 *Praia D’el Rey Golf & Beach Resort*  
 *2510-451 Obidos*  
